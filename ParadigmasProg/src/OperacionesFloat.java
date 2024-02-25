@@ -34,7 +34,5 @@ public class OperacionesFloat
 			System.out.println(v1 + " / " + v2 + " = " + divi);
 			break;
 		}
-		
 	}
-
 }
